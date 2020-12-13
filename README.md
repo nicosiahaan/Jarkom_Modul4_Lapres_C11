@@ -12,3 +12,5 @@ Kelompok C11
 
 # 2. Tree Pembagian IP
 ![gambar2](/Screenshot_214.png)
+![gambar2](/Screenshot_213.png)
+![gambar2](/Screenshot_212.png)
